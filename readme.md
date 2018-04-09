@@ -2,6 +2,12 @@
 
 Open dataset visualization. The goal of this project is to build a visualization tool of table data (.csv, .xls...) and facilitate its access, filtering and previsualization.
 
+# Getting started
+
+![demo](demo.pdf)
+
+The app can be started with `yarn start` in the root repository.
+
 # Goals
 
 - Previsualization: get the first few lines of the dataset to see its shape (column names, type of values etc.) before downloading it
